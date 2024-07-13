@@ -1,6 +1,4 @@
 -xc++
 -I
-include
--I
-include/lib
+problems/2751
 --std=c++20
